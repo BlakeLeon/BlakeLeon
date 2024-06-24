@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BlakeLeon/BlakeLeon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BlakeLeon/BlakeLeon/main/snake.svg" alt="Snake animation" />
 
 ###
 
