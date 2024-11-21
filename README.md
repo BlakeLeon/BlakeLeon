@@ -49,10 +49,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="leonblakee@protonmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Proton&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
 </div>
-
+-->
 ###
