@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">🌍 | My name is Blake and I'm a developer, from Madrid, Spain.<br>📕 | I have studied web application development.<br>🖥️ | I use my GitHub to saving my code and my projects.</h2>
+<h2 align="left">🌍 | My name is Leon and I'm a developer, from Madrid, Spain.<br>📕 | I have studied web application development.<br>🖥️ | I use my GitHub to saving my code and my projects.</h2>
 
 ###
 
